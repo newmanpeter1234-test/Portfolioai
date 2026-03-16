@@ -1,3 +1,7 @@
 {
-  "name": "portfolio-main"
+  "buildCommand": false,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/api/chat", "destination": "/api/chat" }
+  ]
 }
