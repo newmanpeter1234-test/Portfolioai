@@ -668,7 +668,7 @@ footer p {
   bottom: 30px;
   right: 30px;
   width: 60px;
-  height: 60px;
+  height: 50px;
   border-radius: 50%;
   background-color: var(--secondary);
   color: var(--black);
